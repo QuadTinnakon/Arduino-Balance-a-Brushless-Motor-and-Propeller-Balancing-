@@ -1,5 +1,8 @@
 # Arduino-Balance-a-Brushless-Motor-and-Propeller-Balancing-
 
+วีดีโอ
+
+https://www.youtube.com/watch?v=tdTbtTJnRZk&list=UUK8SdBKqjdXghqlJf3-sZaQ
 
 /*
 project_balance a brushless motor  v1.1  
